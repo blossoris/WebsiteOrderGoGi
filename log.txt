@@ -1,0 +1,27 @@
+Array
+(
+    [id_table] => 1
+    [id_account] => 2
+    [total_amount] => 278
+    [orderItems] => Array
+        (
+            [0] => Array
+                (
+                    [id_food] => 4
+                    [quantity] => 1
+                    [price] => 109000
+                    [status] => 
+                )
+
+            [1] => Array
+                (
+                    [id_food] => 6
+                    [quantity] => 1
+                    [price] => 169000
+                    [status] => 
+                )
+
+        )
+
+    [id_billnew] => 93
+)
